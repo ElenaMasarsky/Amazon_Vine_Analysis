@@ -8,6 +8,7 @@ Next, we use PySpark, Pandas, or SQL to determine if there is any bias toward fa
 
 ## Results:  
 
+![pic](https://github.com/ElenaMasarsky/Amazon_Vine_Analysis/blob/main/Resources/total_numbers.png)  
 
 Our final DataFrame shows following results:  
 - There are 94 Vine reviews and 40471 non-Vine reviews.  
